@@ -215,6 +215,6 @@ int main() {
 		}
 		cout << "are u want another customer? Y/N";
 		cin >> choice2;
-	} while (choice2 != 'N');
+	} while (choice2 != 'N'); 
 
 }
