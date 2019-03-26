@@ -162,7 +162,7 @@ int main(int argc, char ** argv)
 
 
 
-	//Poly   
+	//Poly
 
 	//calling a specific ANIMAL -> a derived class of base 
 
