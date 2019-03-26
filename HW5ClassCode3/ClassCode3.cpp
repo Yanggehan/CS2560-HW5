@@ -72,4 +72,4 @@ int main(void)
 
 	return 0;
 
-}// virtual destructor example   base pointer problem 
+}// virtual destructor example   base pointer problem
